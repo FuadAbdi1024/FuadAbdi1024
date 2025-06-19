@@ -42,4 +42,3 @@ Excited to collaborate on projects and learn from the developer community!
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FuadAbdi1024&show_icons=true&hide_border=true&count_private=true&theme=radical)
