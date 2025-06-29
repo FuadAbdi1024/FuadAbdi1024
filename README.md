@@ -26,8 +26,11 @@ I'm a passionate **Front-End Developer** with experience in **Javascript, React,
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blo]**(your_website_or_blog_link)
 - **[LinkedIn]**(https://linkedin.com/in/fuadahussein)
 - **[Twitter]**(https://twitter.com/@FuadAbdi1024)  
 
+## ⚡ Fun Fact
+
+I enjoy turning ideas into beautiful websites and improving my skills every day.  
+Excited to collaborate on projects and learn from the developer community!
 
