@@ -12,7 +12,7 @@ I'm a passionate **Front-End Developer** with experience in **Javascript, React,
                       -Learning **UI/UX design** using **Figma**  
                       -Exploring modern frontend workflows and tools 
 - 🌍 Languages: **Javascript,C and English, Arabic and Swahili**
-- 📫 How to reach me: **fuadabdi12@gmail.com**
+- 📫 How to reach me: **fuadabdi112@gmail.com**
   
 
 ## My Skills 🧠
