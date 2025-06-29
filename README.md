@@ -6,11 +6,11 @@ I'm a passionate **Front-End Developer** with experience in **Javascript, React,
 
 - 🌱 Currently learning: **ProDev Front-End at ALX**
 - 🔭 Working on:  **full-stack Airbnb clone project** to level up my React and UI/UX skills.
-                   Building interactive UIs with **React.js**  
-                   Mastering **HTML**, **CSS**, and **JavaScript** fundamentals  
-                   Improving **responsive design** techniques  
-                   Learning **UI/UX design** using **Figma**  
-                   Exploring modern frontend workflows and tools 
+                    - Building interactive UIs with **React.js**  
+                     -Mastering **HTML**, **CSS**, and **JavaScript** fundamentals
+                      -Improving **responsive design** techniques
+                      -Learning **UI/UX design** using **Figma**  
+                      -Exploring modern frontend workflows and tools 
 - 🌍 Languages: **Javascript,C and English, Arabic and Swahili**
 - 📫 How to reach me: **fuadabdi12@gmail.com**
   
@@ -26,7 +26,7 @@ I'm a passionate **Front-End Developer** with experience in **Javascript, React,
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blo]**(your_website_or_blog_link)
 - **[LinkedIn]**(https://linkedin.com/in/fuadahussein)
 - **[Twitter]**(https://twitter.com/@FuadAbdi1024)  
 
